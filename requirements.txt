@@ -1,0 +1,24 @@
+# 資源回收物分類檢測系統依賴
+
+# 核心依賴
+ultralytics>=8.0.0
+streamlit>=1.28.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+torch>=2.0.0
+
+# 網頁解析
+beautifulsoup4>=4.13.0
+requests>=2.31.0
+
+# 數據處理和可視化
+pandas>=2.0.0
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# 數據庫
+# SQLite is built into Python, no additional package needed
+
+# 其他工具
+psutil>=5.9.0
